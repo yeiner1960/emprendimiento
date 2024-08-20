@@ -109,6 +109,13 @@ h3 {
     font-size: 2rem;
 }
 
+.navegacion a:hover {
+    background-color: #ecebe6;
+    color: #fff
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+
 .navegacion__enlace {
     font-family: var(--fuenteprincipal);
     color: var(--negro);
